@@ -6,9 +6,6 @@ function App() {
     <div className="App">
       <header className="App-header">
         <Count />
-        <p>
-          Wow. React is amazing!
-        </p>
       </header>
     </div>
   );

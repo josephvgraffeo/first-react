@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+button {
+  background-color: #ff60aa;
+  margin: 5px;
+  padding: 1%;
+  font-size: 12px;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+  align-items: center;
+  justify-content: center;
+}
+
+.main-text {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+  font-size: calc(35px + 2vmin);
+  color: #ff60aa;
+}
